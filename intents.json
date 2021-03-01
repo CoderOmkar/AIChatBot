@@ -86,12 +86,12 @@
       "patterns": [
         "Do you take credit cards?",
         "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
+        "Can I pay with google pay?",
         "Are you cash only?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "We accept VISA, Mastercard, Paypal and Google pay",
+        "We accept most major credit cards,Paypal and Google pay"
       ]
     },
     {
